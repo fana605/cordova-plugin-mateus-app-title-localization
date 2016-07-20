@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-private-mathmage-app-title-localization",
+  "name": "cordova-plugin-mateus-app-title-localization",
   "version": "1.0.0",
   "description": "private",
   "cordova": {
-    "id": "cordova-plugin-private-mathmage-app-title-localization",
+    "id": "cordova-plugin-mateus-app-title-localization",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/speige/cordova-plugin-private-mathmage-app-title-localization.git"
+    "url": "https://github.com/fana605/cordova-plugin-mateus-app-title-localization.git"
   },
   "author": "Devin Garner <DevinGarner@gmail.com>",
   "license": "MIT",
